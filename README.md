@@ -10,3 +10,5 @@ The algorithm continuously generates new combinations of active percussion arms 
 The result is a mechanical music instrument capable of autonomous generative performance, combining robotics, physical computing, and algorithmic composition.
 
 
+![Robot generativo](IMG-20151110-WA0001.jpeg)
+
